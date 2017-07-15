@@ -1,7 +1,0 @@
-파일 목록 추출
-cmd: dir /b >list.txt
-work group -> MNS-GROUP
-
-
-Github.com/google
--> google c++ style
